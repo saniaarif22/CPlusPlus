@@ -18,15 +18,15 @@ Sorting program:
 
 - We then remove elements one at a time by picking a random position in the sequence and remove the element there.
 
-For example positions 1 2 0 0 gives:
+  For example positions 1 2 0 0 gives:
 
-1 2 4 5
+  1 2 4 5
 
-1 4 5
+  1 4 5
 
-1 4
+  1 4
 
-4
+  4
 
 - The sequence grows incrementally. 
 
