@@ -7,11 +7,8 @@ Sorting program:
 For example 5 1 4 2 gives:
 
 5
-
 1 5
-
 1 4 5
-
 1 2 4 5
 
 - We then remove elements one at a time by picking a random position in the sequence and remove the element there.
