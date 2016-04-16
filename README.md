@@ -1,7 +1,7 @@
 # CPlusPlus
 Stock C++ code for the Language Library Design of C++ with Bjarne Stroustrup.
 
-#### The purpose of this assignment is to find that for which *N* is it better to use a linked list than a vector (or an array) to represent the sequence?
+##### The purpose of this assignment is to find *N* for which it is better to use a linked list than a vector (or an array) to represent the sequence.
 
 Sorting program:
 - Program generates N random integers and inserts them into a sequence so that each is inserted in its proper position in the numerical order.
